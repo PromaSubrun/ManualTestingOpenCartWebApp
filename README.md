@@ -22,9 +22,9 @@ Project Structure:
 
 4. TestPlan(OpenCart).pdf: This PDF is likely a Test Plan document for OpenCart, providing an overview of the testing strategy, objectives, scope, and schedule for testing the software.
 
-5. web Registration Test Cases.xlsx: This Excel file probably contains a set of test cases specifically related to web registration functionality in OpenCart. It likely includes detailed steps, expected results, and test data.
+5. Web Registration Test Cases.xlsx: This Excel file probably contains a set of test cases specifically related to web registration functionality in OpenCart. It likely includes detailed steps, expected results, and test data.
 
 Contributions:
 
 Contributions are welcome! Feel free to submit issues, enhancements, or suggestions to improve the manual testing process for OpenCart.
-Happy Automating! 🚀
+Happy Manual Testing! 🚀
